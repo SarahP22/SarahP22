@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarahP22
 - 👀 I’m interested in Data Science, Business Intelligence, Data Intelligence
-- 🌱 I’m currently learning Data Science at NJIT through THRIVEdx
+- 🌱 I recently finished a Data Science course at NJIT through THRIVEdx
 - 💞️ I’m looking to collaborate on anything that will help me learn and practice python
 - 📫 How to reach me ...
 
