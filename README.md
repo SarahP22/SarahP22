@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SarahP22
 - 👀 I’m interested in Data Science, Business Intelligence, Data Intelligence
 - 🌱 I recently finished a Data Science course at NJIT through THRIVEdx
-- 💞️ I’m looking to collaborate on anything that will help me learn and practice python
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything that will help me learn and practice SQL or python
+- 📫 How to reach me: see profile
 
 <!---
 SarahP22/SarahP22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
